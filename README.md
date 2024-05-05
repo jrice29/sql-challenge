@@ -1,6 +1,6 @@
-References
-Xpert Learning Assistance
-Eli's example code from lecture 4/25/24
+References:
+Xpert Learning Assistance,
+Eli's example code from lecture 4/25/24,
 Ask BCS Learning Assistance
 
 
